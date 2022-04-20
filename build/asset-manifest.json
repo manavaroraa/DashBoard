@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/manavdhingra/static/css/main.faaf63b1.chunk.css",
+    "main.js": "/manavdhingra/static/js/main.51d44a79.chunk.js",
+    "main.js.map": "/manavdhingra/static/js/main.51d44a79.chunk.js.map",
+    "runtime-main.js": "/manavdhingra/static/js/runtime-main.4f56aceb.js",
+    "runtime-main.js.map": "/manavdhingra/static/js/runtime-main.4f56aceb.js.map",
+    "static/css/2.e123d1a3.chunk.css": "/manavdhingra/static/css/2.e123d1a3.chunk.css",
+    "static/js/2.1fa036ad.chunk.js": "/manavdhingra/static/js/2.1fa036ad.chunk.js",
+    "static/js/2.1fa036ad.chunk.js.map": "/manavdhingra/static/js/2.1fa036ad.chunk.js.map",
+    "index.html": "/manavdhingra/index.html",
+    "static/css/2.e123d1a3.chunk.css.map": "/manavdhingra/static/css/2.e123d1a3.chunk.css.map",
+    "static/css/main.faaf63b1.chunk.css.map": "/manavdhingra/static/css/main.faaf63b1.chunk.css.map",
+    "static/js/2.1fa036ad.chunk.js.LICENSE.txt": "/manavdhingra/static/js/2.1fa036ad.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/manavdhingra/static/media/argon-react-white.e4dd3b41.png",
+    "static/media/argon-react.png": "/manavdhingra/static/media/argon-react.128d71d3.png",
+    "static/media/all.min.css": "/manavdhingra/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/nucleo.css": "/manavdhingra/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/manavdhingra/static/media/profile-cover.97899245.jpg",
+    "static/media/team-1-800x800.jpg": "/manavdhingra/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-4-800x800.jpg": "/manavdhingra/static/media/team-4-800x800.99c612eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f56aceb.js",
+    "static/css/2.e123d1a3.chunk.css",
+    "static/js/2.1fa036ad.chunk.js",
+    "static/css/main.faaf63b1.chunk.css",
+    "static/js/main.51d44a79.chunk.js"
+  ]
+}
